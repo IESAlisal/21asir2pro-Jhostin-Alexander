@@ -1,5 +1,5 @@
 # **Proyecto "Administracion Automatizada Active Directory"**
-
+(https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/.github/active.png)
 Este proyecto consiste en la creacion un script
 que nos permitira las diferentes funcionalidades:
 * Nos preguntara por el nombre de usuario y cantidad que deseamos crear.
