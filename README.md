@@ -12,6 +12,8 @@ que nos permitira las diferentes funcionalidades:
         * Todo esto en la UO indica y los metera en en un grupo con sus nombres correspondientes.
     * CASO NO
         * Los pasos seran igual que el anterior pero indicaremos una UO que ya este creada anteriormente.
+
+
 Enlace script: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/Cracion%20dinamica.ps1)]
 
 
