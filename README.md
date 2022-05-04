@@ -13,4 +13,6 @@ que nos permitira las diferentes funcionalidades:
     * CASO NO
         * Los pasos seran igual que el anterior pero indicaremos una UO que ya este creada anteriormente.
 Enlace script: {!Script}(https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/Cracion%20dinamica.ps1)
+
+
 _Jhostin Alexander Cadme Salinas_
