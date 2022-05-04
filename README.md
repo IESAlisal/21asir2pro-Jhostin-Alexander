@@ -1,5 +1,5 @@
 # **Proyecto "Administracion Automatizada Active Directory"**
-![Fail](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/tree/main/PS1/active.png "Carpeta Scripts")
+![Fail](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/active.png "Carpeta Scripts")
 
 
 Este proyecto consiste en la creacion un script
