@@ -1,4 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7681802&assignment_repo_type=AssignmentRepo)
 # **Proyecto "Administracion Automatizada Active Directory"**
 
 Este proyecto consiste en la creacion un script
@@ -14,4 +13,4 @@ que nos permitira las diferentes funcionalidades:
     * CASO NO
         * Los pasos seran igual que el anterior pero indicaremos una UO que ya este creada anteriormente.
 
-
+_Jhostin Alexander Cadme Salinas_
