@@ -15,10 +15,17 @@
 cls
 
 $usuarios=Read-host "Indique nombre de usuarios que desee crear"; ##usuarios que crearemos##
-$cantidad=Read-host "Indique la cantidad de usuarios";
+write-host "Valores aceptados entre 1-10000"
+[int]$cantidad=Read-host "Indique la cantidad de usuarios";
+if($cantidad -lt 1 -or $cantidad -gt 1000){
+write-warning "Introduzca un valor numerico[1-1000],ejemplo '20'."
+
+}
+else{
 foreach($usuario in $usuarios){
+        write-host "Valores permitidos:SI/S/YES/Y/NO/NOT/N"
         $UnidadO=Read-Host "¿Desea crear unidad organizativa nueva?(SI/NO)"
-    if($UnidadO -eq "Si"){
+    if($UnidadO -eq "Si" -OR $UnidadO -eq "S" -or $UnidadO -eq "yes" -or $UnidadO -eq "y" ){
         $NuevaOU=Read-host "Indique Nombre De La Nueva OU"
             Write-host "Se crearan los usuarios en la OU indicada"
             Write-host "La contraseña predeterminada debera cumplir requisitos de complejidad"
@@ -35,7 +42,8 @@ foreach($usuario in $usuarios){
             Add-ADGroupMember -Identity $usuario -Members $usuario$i
         }
     }
-    if($UnidadO -eq "No"){
+    #else{Write-warning "Introduzca el valor correcto"}
+    elseif($UnidadO -eq "No" -OR $UnidadO -eq "N" -OR $UnidadO -eq "NOT"){
         $UO=Read-host "Indique la Unidad Organizativa existente"
             Write-host "Se crearan los usuarios en la OU indicada"
             Write-host "La contraseña predeterminada debera cumplir requisitos de complejidad"
@@ -51,6 +59,8 @@ foreach($usuario in $usuarios){
             Add-ADGroupMember -Identity $usuario -Members $usuario$i
         }
     }
+    else{write-warning "Introduzca el valor correcto"}
+}
 }
 
 
@@ -58,6 +68,4 @@ foreach($usuario in $usuarios){
 
 
 
-
-
-
+pause 
