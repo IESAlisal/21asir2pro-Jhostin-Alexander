@@ -12,6 +12,6 @@ $NuevaOU=read-host "Indica el nombre de la OU en donde quieres añadir el usuari
     New-ADUser -Name $usuario$i -AccountPassword $contra -Path "OU=$NuevaOU,DC=Proyecto,DC=es" -passthru -Enabled $true -ChangePasswordAtLogon $true
    Add-ADGroupMember -Identity $usuario -Members $usuario$i
    mkdir "C:\users\$usuario$i"
-   New-SMBShare –Name $usuario$i –Path "C:\users\$usuario$i" –FullAccess Administrador -ReadAccess $usuario$i 
+   New-SMBShare –Name $usuario$i –Path "C:\users\$usuario$i" –FullAccess Administrador, $usuario$i -ReadAccess $usuario$i -ChangeAccess $usuario$i
     }
 }
