@@ -2,8 +2,8 @@
 ![Fail](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/ActiveDirectory.png "Carpeta Scripts")
 
 
-Este proyecto consiste en la creacion un script
-que nos permitira las diferentes funcionalidades:
+Este proyecto consiste en la creacion de una serie de scripts
+que nos permitira las diferentes funcionalidades: Ejemplo "Creacion_dinamica.ps1":
 * Nos preguntara por el nombre de usuario y cantidad que deseamos crear.
 * Nos preguntara graficamente si deseamos crear una nueva unidad organizativa.
 * En funcion de nuestra respuesta Ejecutara una funcion u otra al tratarse de un condicional.
@@ -14,7 +14,8 @@ que nos permitira las diferentes funcionalidades:
         * Todo esto en la UO indica y los metera en en un grupo con sus nombres correspondientes.
     * CASO NO
         * Los pasos seran igual que el anterior pero indicaremos una UO que ya este creada anteriormente.
-
+Todos estos scripts nos permitiran tener un control casi absoluto de la empresa con la facilidad de un unico click, permitiendo gestionar diversas
+acciones sobre nuestro servidor.
 
 Enlace script Creacion Dinamica.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/Cracion%20dinamica.ps1)]
 
