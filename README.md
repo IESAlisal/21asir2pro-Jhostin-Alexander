@@ -34,7 +34,7 @@ Enlace script Ejecutar_Script_TareaProgramada.ps1: [[Script](https://github.com/
 Enlace script DetenerProcesos.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/DetenerProcesos.ps1)]
 
 
-Enlace script Creacion GPO.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/Creacion GPO.ps1)]
+Enlace script Creacion GPO.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/Creacion%20GPO.ps1)]
 
 
 Enlace script carpetascompartidas.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/carpetascompartidas.ps1)]
