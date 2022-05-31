@@ -17,6 +17,16 @@ que nos permitira las diferentes funcionalidades:
 
 
 Enlace script Creacion Dinamica.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/Cracion%20dinamica.ps1)]
+Enlace script Usuarios_Conectados_N_Dias.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/Usuarios_Conectados_N_Dias.ps1)]
+Enlace script Tarea_Programada_ApagadoEquipo.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/Tarea_Programada_ApagadoEquipo.ps1)]
+Enlace script Procesos_activos.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/Cracion%20dinamica.ps1)]
+Enlace script Ejecutar_Script_TareaProgramada.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/Ejecutar_Script_TareaProgramada.ps1)]
+Enlace script DetenerProcesos.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/DetenerProcesos.ps1)]
+Enlace script Creacion GPO.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/Creacion GPO.ps1)]
+Enlace script carpetascompartidas.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/carpetascompartidas.ps1)]
+Enlace script backups.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/backups.ps1)]
+Enlace script ApagarEquipo_Remoto.ps1: [[Script](https://github.com/IESAlisal/21asir2pro-Jhostin-Alexander/blob/main/PS1/ApagarEquipo_Remoto.ps1)]
+
 
 
 _Jhostin Alexander Cadme Salinas_
