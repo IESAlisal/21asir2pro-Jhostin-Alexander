@@ -14,6 +14,8 @@ que nos permitira las diferentes funcionalidades: Ejemplo "Creacion_dinamica.ps1
         * Todo esto en la UO indica y los metera en en un grupo con sus nombres correspondientes.
     * CASO NO
         * Los pasos seran igual que el anterior pero indicaremos una UO que ya este creada anteriormente.
+
+
 Todos estos scripts nos permitiran tener un control casi absoluto de la empresa con la facilidad de un unico click, permitiendo gestionar diversas
 acciones sobre nuestro servidor.
 
